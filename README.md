@@ -3,7 +3,7 @@ Forest
 A program that procedurally generates the image of a twisty, thorny bush of vines. That's pretty much it!
 
 
-[![1.png](http://s15.postimg.org/9torx3y2j/image.png)](http://postimg.org/image/4i9vcebzr/)  
+![](pics/1.png)  
 #####Sample output image from one of the runs
 
 Instructions:
